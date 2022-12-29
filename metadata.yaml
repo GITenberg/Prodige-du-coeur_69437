@@ -1,6 +1,9 @@
 _repo: Prodige-du-coeur_69437
 _version: 0.1.0
 alternative_title: Prodige du coeur
+covers:
+- cover_type: archival
+  image_path: 69437-h/images/cover.jpg
 creator:
   author:
     agent_name: Silvestre, Charles
@@ -12,6 +15,8 @@ creator:
     - https://en.wikipedia.org/wiki/Charles_Silvestre
     - https://fr.wikipedia.org/wiki/Charles_Silvestre
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/69437#Prodige-du-coeur
 gutenberg_issued: '2022-11-28'
 identifiers:
   gutenberg: '69437'
